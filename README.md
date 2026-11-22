@@ -30,11 +30,11 @@ This repository implements and evaluates **STEVE (Slot-Transformer for Eventual 
 
 | Sample 1 | Sample 2 |
 | :---: | :---: |
-| ![Sample 1](results/phase2/davis_sample_1.png) | ![Sample 2](results/phase2/davis_sample_2.png) |
+| ![Sample 1](davis_sample_1.png) | ![Sample 2](davis_sample_2.png) |
 
 | Sample 3 | Sample 4 |
 | :---: | :---: |
-| ![Sample 3](results/phase2/davis_sample_3.png) | ![Sample 4](results/phase2/davis_sample_4.png) |
+| ![Sample 3](davis_sample_3.png) | ![Sample 4](davis_sample_4.png) |
 
 ### Key Findings (Synthetic-to-Real Domain Gap)
 - **Temporal Tracking:** Slots maintain consistent object identity across consecutive frames.
